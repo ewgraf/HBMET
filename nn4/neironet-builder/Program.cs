@@ -1,7 +1,4 @@
-﻿using AForge.Neuro;
-using AForge.Neuro.Learning;
-using Neural;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -9,34 +6,26 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
+
+using AForge.Neuro;
+using AForge.Neuro.Learning;
+using Neural;
+
 using Mono.Options;
 
 namespace neironet_builder
 {
     static class Program
     {
-        static IEnumerable<T> WithoutLast<T>(this IEnumerable<T> source)
-        {
-            using (var e = source.GetEnumerator())
-            {
-                if (e.MoveNext())
-                {
-                    for (var value = e.Current; e.MoveNext(); value = e.Current)
-                    {
-                        yield return value;
-                    }
-                }
-            }
-        }
-        private static
-            string[] txtFiles = null;
+        private static string[] txtFiles = null;
 
         [STAThread]
         static void Main(string[] args)
         {
             string path = string.Empty;
-            string filesPattern = string.Empty; // "[automated]ходы.txt-*.txt"
+            string filesPattern = string.Empty; // Ex: "[automated]ходы.txt-*.txt"
             if(args.Count() == 0)
+            {
                 using (FolderBrowserDialog fbd = new FolderBrowserDialog())
                 {
                     if (fbd.ShowDialog() == DialogResult.OK)
@@ -46,9 +35,11 @@ namespace neironet_builder
                     }
                     else
                     {
+                        Console.WriteLine("[Error] fbd.ShowDialog() != DialogResult.OK —> Working path was not specified.");
                         return;
                     }
                 }
+            }                
             else if(args.Count() != 0)
             {
                 OptionSet options = new OptionSet()
@@ -64,13 +55,8 @@ namespace neironet_builder
             Console.WriteLine("pattern=" + "[automated]ходы.txt-" + filesPattern + ".txt");
             txtFiles = Directory.GetFiles(path, "[automated]ходы.txt-" + filesPattern + ".txt", SearchOption.AllDirectories);
 
-            //int i1 = 0;
             foreach (var txtFile in txtFiles)
             {
-                //i1++;
-                //if (i1 != 4)
-                //    continue;
-
                 // Файл с полной обучающей выборкой
                 string[] file = File.ReadAllLines(txtFile);
 
@@ -223,6 +209,20 @@ namespace neironet_builder
 
                 network.Save(     Path.Combine(parentDirectory,    Path.Combine("сети", string.Format("network-{0}.nn",       angle))   ));
                 File.WriteAllText(Path.Combine(parentDirectory,    Path.Combine("сети", string.Format("network-{0}-info.txt", angle))   ), log.ToString());
+            }
+        }
+
+        static IEnumerable<T> WithoutLast<T>(this IEnumerable<T> source)
+        {
+            using (var e = source.GetEnumerator())
+            {
+                if (e.MoveNext())
+                {
+                    for (var value = e.Current; e.MoveNext(); value = e.Current)
+                    {
+                        yield return value;
+                    }
+                }
             }
         }
     }
