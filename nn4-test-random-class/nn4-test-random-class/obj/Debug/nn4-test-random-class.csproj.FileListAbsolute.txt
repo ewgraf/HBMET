@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\bin\Debug\nn4-test-random-class.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\bin\Debug\nn4-test-random-class.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\bin\Debug\nn4-test-random-class.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4-test-random-class.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4_test_random_class.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4_test_random_class.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4-test-random-class.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4-test-random-class.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-test-random-class\nn4-test-random-class\obj\Debug\nn4-test-random-class.pdb

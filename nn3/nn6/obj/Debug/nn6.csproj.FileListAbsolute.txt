@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn6\nn6\bin\Debug\nn6.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\bin\Debug\nn6.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\bin\Debug\nn6.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn6\nn6\obj\Debug\nn6.pdb

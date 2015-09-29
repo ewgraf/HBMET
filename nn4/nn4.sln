@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nn4", "nn4\nn4.csproj", "{DD85321B-45F1-41F9-BCB0-9CDCB41564DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parser", "parser\parser.csproj", "{4A7CD083-C648-4630-BCC5-39F7C608276C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nn4-error-mining", "nn4-error-mining\nn4-error-mining.csproj", "{C89132EA-FB78-4DDF-B1FF-3B9E3587F9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neironet-builder", "neironet-builder\neironet-builder.csproj", "{8A30D135-91DB-44DF-9D13-F09156882874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD85321B-45F1-41F9-BCB0-9CDCB41564DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD85321B-45F1-41F9-BCB0-9CDCB41564DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD85321B-45F1-41F9-BCB0-9CDCB41564DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD85321B-45F1-41F9-BCB0-9CDCB41564DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7CD083-C648-4630-BCC5-39F7C608276C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7CD083-C648-4630-BCC5-39F7C608276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7CD083-C648-4630-BCC5-39F7C608276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7CD083-C648-4630-BCC5-39F7C608276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89132EA-FB78-4DDF-B1FF-3B9E3587F9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89132EA-FB78-4DDF-B1FF-3B9E3587F9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89132EA-FB78-4DDF-B1FF-3B9E3587F9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89132EA-FB78-4DDF-B1FF-3B9E3587F9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A30D135-91DB-44DF-9D13-F09156882874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A30D135-91DB-44DF-9D13-F09156882874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A30D135-91DB-44DF-9D13-F09156882874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A30D135-91DB-44DF-9D13-F09156882874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

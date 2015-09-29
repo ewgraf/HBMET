@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-parser\nn-cs-parser\bin\Debug\nn-cs-parser.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-parser\nn-cs-parser\bin\Debug\nn-cs-parser.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-parser\nn-cs-parser\bin\Debug\nn-cs-parser.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-parser\nn-cs-parser\obj\Debug\nn-cs-parser.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-parser\nn-cs-parser\obj\Debug\nn-cs-parser.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn-cs-parser\nn-cs-parser\obj\Debug\nn-cs-parser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\bin\Release\nn4.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\bin\Release\nn4.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\bin\Release\nn4.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\nn4\obj\Release\nn4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\bin\Debug\nn4-maze-generation.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4-maze-generation.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4_maze_generation.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4_maze_generation.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4-maze-generation.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\bin\Debug\nn4-maze-generation.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\bin\Debug\nn4-maze-generation.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4-maze-generation.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-maze-generation\nn4-maze-generation\obj\Debug\nn4-maze-generation.pdb

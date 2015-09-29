@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\bin\Release\nn4-bonus-raspr.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\bin\Release\nn4-bonus-raspr.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\bin\Release\nn4-bonus-raspr.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\obj\Release\nn4_bonus_raspr.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\obj\Release\nn4_bonus_raspr.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\obj\Release\nn4-bonus-raspr.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\obj\Release\nn4-bonus-raspr.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4-bonus-raspr\nn4-bonus-raspr\obj\Release\nn4-bonus-raspr.pdb

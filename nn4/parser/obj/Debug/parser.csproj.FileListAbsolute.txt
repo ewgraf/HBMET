@@ -1,0 +1,9 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\bin\Debug\parser.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\bin\Debug\parser.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\bin\Debug\parser.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\obj\Debug\parser.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\obj\Debug\parser.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\obj\Debug\parser.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\obj\Debug\parser.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\nn4\parser\obj\Debug\parser.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\parser\obj\Debug\parser.csprojResolveAssemblyReference.cache

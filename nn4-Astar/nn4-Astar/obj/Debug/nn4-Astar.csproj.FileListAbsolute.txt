@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\bin\Debug\nn4-Astar.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\bin\Debug\nn4-Astar.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\bin\Debug\nn4-Astar.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4-Astar.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4_Astar.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4_Astar.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4-Astar.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4-Astar.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-Astar\nn4-Astar\obj\Debug\nn4-Astar.pdb

@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\bin\Debug\nn4-skolko-bolshe-26.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\bin\Debug\nn4-skolko-bolshe-26.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\bin\Debug\nn4-skolko-bolshe-26.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\obj\Debug\nn4_skolko_bolshe_26.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\obj\Debug\nn4_skolko_bolshe_26.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\obj\Debug\nn4-skolko-bolshe-26.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\obj\Debug\nn4-skolko-bolshe-26.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn4-skolko-bolshe-26\nn4-skolko-bolshe-26\obj\Debug\nn4-skolko-bolshe-26.pdb

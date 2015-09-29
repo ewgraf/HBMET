@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\neironet-builder.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\neironet-builder.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\neironet-builder.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Genetic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Math.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Neuro.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Genetic.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Math.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\AForge.Neuro.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\obj\Debug\neironet-builder.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\obj\Debug\neironet-builder.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\Accord.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\Accord.Math.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\Accord.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\nn4\neironet-builder\bin\Debug\Accord.Math.xml

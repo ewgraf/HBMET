@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-compiler\nn-cs-compiler\bin\Debug\nn-cs-compiler.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-compiler\nn-cs-compiler\bin\Debug\nn-cs-compiler.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-compiler\nn-cs-compiler\bin\Debug\nn-cs-compiler.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-compiler\nn-cs-compiler\obj\Debug\nn-cs-compiler.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\nn-cs-compiler\nn-cs-compiler\obj\Debug\nn-cs-compiler.pdb
